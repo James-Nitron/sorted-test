@@ -3,7 +3,6 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  /* make sure this works in moz and safari */
   background-color: #282c34;
   min-height: 100px;
   font-size: calc(10px + 2vmin);
